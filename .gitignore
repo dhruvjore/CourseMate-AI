@@ -1,0 +1,30 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+qa_storage.json
+
+# secrets
+**/.env
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# misc
+**/.DS_Store
+venv/
+.idea/
+.vscode/
+
+# secrets
+**/.env
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# misc
+**/.DS_Store
+venv/
+.idea/
+.vscode/
+
+TA-Lite Report.pdf
