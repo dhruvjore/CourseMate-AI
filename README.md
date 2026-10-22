@@ -1,8 +1,8 @@
 # CourseMate AI 
 ### A Modular AI Course Helping agent
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/aa171c3e-2ee1-41d9-b8f3-a80806db5e8b" />
 
 ---
-<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/8b4a111a-afc7-4670-8fd4-5f6558cb046d" />
 
 ## Project Motivation
 
@@ -29,7 +29,7 @@ In large classroom settings, students often hesitate to ask questions, while pro
 
 ## System Architecture
 
-<img width="1024" height="469" alt="image" src="https://github.com/user-attachments/assets/a2afd681-054e-4fe5-877f-6255c168456d" />
+<img width="1024" height="469" alt="image" src="https://github.com/user-attachments/assets/aa39406c-4aa7-4aff-a7b0-8ca423649ed4" />
 
 
 
